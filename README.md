@@ -1,4 +1,4 @@
 # Jackie's Resume
 
-### Resume [resume](https://jackiefeit94.github.io/Resume/)
+### [Resume](https://jackiefeit94.github.io/Resume/)
 
